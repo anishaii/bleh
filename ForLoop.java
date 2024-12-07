@@ -42,9 +42,9 @@ public class ForLoop {
      // multiplication table of 1  for (int i=1; i <5 ; i++)   System.out.println("Loop"+i);
 
 
-     for (int i = 1; i<=20 ; i++){
-     System.out.println("2 x"+i + " = " +2*i);
-     }
+    //  for (int i = 1; i<=20 ; i++){
+    //  System.out.println("2 x"+i + " = " +2*i);
+    //  }
     }
 
     

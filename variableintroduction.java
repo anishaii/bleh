@@ -27,10 +27,10 @@ public class variableintroduction {
         //short shortVariable = false;   cannot mismatch type of value  (numeric datatype = boolean value)
 
         // Non primitive datatype  first capital
-        String stringVariable = "Hello world";
-        // string value is enclosed in double quotes " "
-        // can make string using constructor
-        String stringVariable2 = new String("object of string");
+        // String stringVariable = "Hello world";
+        // // string value is enclosed in double quotes " "
+        // // can make string using constructor
+        // String stringVariable2 = new String("object of string");
 
          
        /*  Task (classwork)
@@ -47,19 +47,19 @@ public class variableintroduction {
         * averageMarking, gpa-> double
         */
 
-        String firstName;
-        String lastName;
-        int age;
-        boolean over18;
-        firstName = "anisha";
-        lastName = "GC";
-        age= 100;
-        over18 = true;
+        // String firstName;
+        // String lastName;
+        // int age;
+        // boolean over18;
+        // firstName = "anisha";
+        // lastName = "GC";
+        // age= 100;
+        // over18 = true;
         
-        float mathmarking, englishMarking , ScienceMarking;
-        mathmarking = 60.3f;
-        englishMarking = 77.1f;
-        ScienceMarking = 90.12f;
+        // float mathmarking, englishMarking , ScienceMarking;
+        // mathmarking = 60.3f;
+        // englishMarking = 77.1f;
+        // ScienceMarking = 90.12f;
 
         
 

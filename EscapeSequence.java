@@ -27,7 +27,15 @@ public class EscapeSequence {
          System.out.println(str5);
 
 
-
+         
+              int age=17;
+              if(age>=18){
+                System.out.println("you are elligible to vote:"+age);
+              }else{
+                System.out.println("you are not elligible to vote:"+age);
+              }
+          
+            
     }
 
 
